@@ -1,7 +1,7 @@
-<H3>Enter Name</H3>
-<H3>Enter Register No.</H3>
+<H3>Karthikeyan K</H3>
+<H3>212221230046</H3>
 <H3>Experiment 2</H3>
-<H3>Date</H3>
+<H3>25.02.2024</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
